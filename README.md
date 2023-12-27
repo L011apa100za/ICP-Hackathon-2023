@@ -231,9 +231,7 @@ OTC交易合约需要满足双方的交易需求，确保安全、透明和可�
 
 编写清晰详尽的介绍文档和使用手册。
 
-### PPT等大文件链接地址
-
-项目demo：
+### 项目demo
 
 https://www.youtube.com/watch?v=yNmXrcWoBhc
 
@@ -278,9 +276,12 @@ Frontend canister via browser
 
 ## 队员信息	
 
-|  名称  |         角色         |  GitHub账号  |    微信账号    |
-| :----: | :------------------: | :----------: | :------------: |
-| V1cent | full-stack developer | L011apa100za | SWS18312967544 |
+| Name   | Role                         | GitHub ID        | Wechat ID      |
+| ------ | ---------------------------- | ---------------- | -------------- |
+| TK     | pm, Business Logic Developer | Richard tsang202 | tk_nom         |
+| S7iter | rear-end                     | S7iter           | shihuobiu      |
+| 探姬   | Full Stack Developer         | ProbiusOfficial  | ProbiusProtoss |
+| V1cent | front-end, UI Designer       | L011apa100za     | SWS18312967544 |
 
 ## License
 
